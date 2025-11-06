@@ -35,17 +35,29 @@ The accompanying **Streamlit app** lets users look up lunar data for any date in
 ---
 
 ## 📂 Project Structure 
+
 Astron1221-Moon-Phase-Calendar/ 
+
 │ 
+
 ├── Project2_Trusko_Cheng.ipynb # Main notebook: lunar data, plotting, detection 
+
 ├── app.py # Streamlit app: interactive moon phase viewer 
+
 ├── events.csv # User events (date, title, category, notes) 
+
 │ 
+
 ├── data/ # Auto-created by Skyfield 
+
 ├── de440s.bsp # stores DE440 ephemeris 
+
 ├── requirements.txt # Dependencies list 
+
 ├── .gitignore # Ignore /data, /venv, .ipynb_checkpoints 
+
 └── README.md # This file 
+
 
 ---
 
