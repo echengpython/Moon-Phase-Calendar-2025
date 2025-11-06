@@ -38,15 +38,12 @@ The accompanying **Streamlit app** lets users look up lunar data for any date in
 
 Astron1221-Moon-Phase-Calendar/ 
 
-│ 
 
 ├── Project2_Trusko_Cheng.ipynb # Main notebook: lunar data, plotting, detection 
 
 ├── app.py # Streamlit app: interactive moon phase viewer 
 
 ├── events.csv # User events (date, title, category, notes) 
-
-│ 
 
 ├── data/ # Auto-created by Skyfield 
 
